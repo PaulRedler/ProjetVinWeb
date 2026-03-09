@@ -121,23 +121,10 @@ Copier le dossier à l'emplacement souhaité, par exemple :
 C:\Sites\ProjetVin\
 ```
 
----
-
-### 3. Configurer la connexion à la base de données
-
-Ouvrir le fichier `appsettings.json` dans le dossier de l'application et modifier la chaîne de connexion :
-
-```json
-{
-  "ConnectionStrings": {
-    "DefaultConnection": "Server=172.28.32.11\\SQLEXPRESS03,1433;Database=cave;User Id=cave;Password=1234;TrustServerCertificate=True;"
-  }
-}
-```
 
 ---
 
-### 4. Lancer l'application
+### 3. Lancer l'application
 
 Ouvrir une invite de commande dans le dossier de l'application et exécuter :
 
