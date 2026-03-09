@@ -36,6 +36,7 @@ C:\Program Files\Microsoft SQL Server\MSSQL17.SQLEXPRESS03\MSSQL\Backup\
 ---
 
 ### 4. Restaurer la base de données
+Installer Sql Server Management Studio (SSMS).
 
 Ouvrir **SSMS** et se connecter à l'instance locale.
 
